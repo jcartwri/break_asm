@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="coreware_asm_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="coreware_asm_">
+				<Option output="/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/coreware_asm_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 coreware_asm_"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="coreware_asm_/fast">
+				<Option output="/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/coreware_asm_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 coreware_asm_/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jcartwri/21/corewar/coreware-asm-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/asm.h">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/byte_counting.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/check_true_arg.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/find_name_comment.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/friend_find_instruction.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/ft_create_operation.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/helper_work_oper.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/instrument.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/instrument_check_arg.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/count_chars.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/free_char_ptr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/free_d_char_arr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/free_d_char_rarr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/free_d_int_arr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_atoi.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_binary_search.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_bruteforce.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_bubble_sort.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_bzero.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_content_del.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_create_desdlist.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_deq_del.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_deq_isempty.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_deq_popcs_l.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_deq_popcs_r.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_deq_push_l.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_deq_push_l_pr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_deq_push_r.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_dlst_add_left_prior.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_dlst_print_cs.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_dlstadd_left.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_dlstadd_right.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_dlstdel.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_dlstdelone.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_dlstiter_l.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_dlstiter_r.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_dlstnew.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_get_left.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_get_right.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_init_desdlist.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_isalnum.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_isalnumber.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_isalpha.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_isascii.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_isdigit.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_isnum.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_isprint.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_isspace.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_itoa.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lltoa_base.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lst_append.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lst_node_cpy.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lst_print.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lstadd.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lstcmp_cs.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lstdel.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lstdelone.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lstiter.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lstmap.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lstnew.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_lstsize.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_memalloc.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_memccpy.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_memchr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_memcmp.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_memcpy.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_memdel.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_memmove.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_memset.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/incs/ansi_escape_codes.h">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/incs/ft_printf.h">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_buffer.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_del_2.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_float.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_float_infinity_nan.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_float_print.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_float_receive_binary.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_float_receive_values.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_float_rounding.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_float_types.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_handler_integer.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_handler_integer_flags.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_parse_types_and_flags.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_parse_width_and_precision.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_print_flags.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_printf.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_putchar_pf.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_summator.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_printf/srcs/ft_summator_find.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_putchar.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_putchar_fd.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_putendl.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_putendl_fd.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_putnbr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_putnbr_fd.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_putstr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_putstr_fd.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_putsymb_n.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_shaker_sort.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_sign_itoa.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_sqrt.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strcat.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strchr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strclr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strcmp.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strcmp_bif.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strcmp_symb.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strcmp_turn_double.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strcpy.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strdel.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strdup.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strequ.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_striter.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_striteri.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strjoin.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strjoin_free.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strlcat.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strlen.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strmap.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strmapi.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strncat.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strncmp.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strncpy.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strnequ.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strnew.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strnstr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strrchr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strrejoin.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strrejoin_left.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strrejoin_right.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strsplit.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strstr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strsub.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_strtrim.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_swap.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_tolower.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_toupper.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/ft_utoa_base.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/get_next_line.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/libft.h">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/new_d_char_arr.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/lib/libft/new_d_int_array.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/list_instruction.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/main.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/one_combination_arg.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/op.h">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/read_asembler.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/two_combination_arg.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/work_with_metky.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/work_with_operations.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/write_bytes_file.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/writes_byte_file_two.c">
+			<Option target="coreware_asm_"/>
+		</Unit>
+		<Unit filename="/Users/jcartwri/21/corewar/coreware-asm-/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
